@@ -131,19 +131,54 @@ Throughout the project, I followed a basic IT troubleshooting process:
 
 ## 📸 Project Documentation
 
-I photographed multiple stages of the troubleshooting process, including:
+Below are photos from my hands-on troubleshooting and hardware inspection of the Dell OptiPlex 760.
 
-- Original internal configuration
-- RAM modules
-- RAM slots
-- Hard drive connections
-- DVD drive removal
-- Motherboard components
-- CMOS battery
-- Cable connections
-- Diagnostic screens
+### Internal Hardware Inspection
 
-Photos will be added to this project repository as supporting documentation.
+![Dell OptiPlex 760 internal hardware](IMG_0006(2).jpeg)
+
+*Inspecting the internal components and connections of the Dell OptiPlex 760.*
+
+---
+
+### Hardware Troubleshooting
+
+![Dell OptiPlex hardware troubleshooting](IMG_0006(3).jpeg)
+
+*Working through the internal hardware while isolating possible causes of the startup problem.*
+
+---
+
+### RAM & Component Testing
+
+![RAM and component testing](IMG_0007(2).jpeg)
+
+*Inspecting and testing internal components as part of the troubleshooting process.*
+
+![Additional hardware testing](IMG_0008(2).jpeg)
+
+*Continuing component-level troubleshooting and checking the system configuration.*
+
+---
+
+### Drive & Internal Component Access
+
+![Dell OptiPlex component access](IMG_0014(2).jpeg)
+
+*Accessing internal components during the troubleshooting and disassembly process.*
+
+---
+
+### System Testing & Diagnostics
+
+![Dell OptiPlex diagnostic testing](IMG_0072.jpeg)
+
+*Testing the system after hardware troubleshooting to observe startup behavior and diagnostic results.*
+
+![Dell OptiPlex troubleshooting result](IMG_0073.jpeg)
+
+*Documenting the system's behavior and results during the troubleshooting process.*
+
 
 ---
 
