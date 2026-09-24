@@ -15,6 +15,9 @@ This portfolio documents my progress and demonstrates the technical skills I am 
 - Linux Fundamentals
 - Cybersecurity Fundamentals
 
+### 📚 IT Support Coursework & Labs
+
+- 🖥️ [Computer Hardware Fundamentals](IT-Support-Labs/Computer-Hardware/)
 ---
 
 ## 🖥️ Hands-On IT Projects
