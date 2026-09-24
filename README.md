@@ -19,7 +19,7 @@ This portfolio documents my progress and demonstrates the technical skills I am 
 
 ## 🖥️ Hands-On IT Projects
 
-### 🔧 Dell OptiPlex 760 Troubleshooting & Rebuild
+### 🔧 [Dell OptiPlex 760 Troubleshooting & Rebuild](Hands-On-Projects/Dell-OptiPlex-760/)
 
 Hands-on computer hardware troubleshooting project using a Dell OptiPlex 760.
 
@@ -37,7 +37,7 @@ Hands-on computer hardware troubleshooting project using a Dell OptiPlex 760.
 - Using beep codes and system behavior during troubleshooting
 - Documenting troubleshooting steps and results
 
-📁 Full project documentation coming soon.
+
 
 ---
 
