@@ -1,8 +1,18 @@
-Welcome to my IT and cybersecurity portfolio!
+# IT & Cybersecurity Portfolio
 
-I am currently building my technical skills through hands-on computer projects, IT coursework, troubleshooting, and cybersecurity training.
+Welcome to my IT and cybersecurity portfolio.
 
-This portfolio documents my progress and demonstrates the technical skills I am developing as I prepare for a career in IT and cybersecurity.
+I am building my technical skills through hands-on computer projects, IT coursework, troubleshooting, and cybersecurity training. This portfolio documents my progress and demonstrates the practical skills I am developing as I prepare for a career in IT and cybersecurity.
+
+---
+
+## 🔐 Professional Statement
+
+I am an aspiring cybersecurity professional with strengths in problem-solving, attention to detail, adaptability, and continuous learning. I value integrity, responsibility, and protecting people and their information.
+
+My interest in cybersecurity comes from my curiosity about how technology works and my desire to identify, understand, and solve security problems. Through hands-on IT projects and cybersecurity training, I am developing skills in computer hardware, system troubleshooting, networking, Linux, security fundamentals, and risk identification.
+
+My goal is to apply my technical skills, strengths, and values to help organizations protect their systems, networks, and sensitive information. I aim to support the confidentiality, integrity, and availability of organizational assets while helping identify threats and vulnerabilities, reduce risk, and strengthen overall security posture.
 
 ---
 
