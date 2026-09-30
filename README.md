@@ -19,7 +19,7 @@ My goal is to apply my technical skills, strengths, and values to help organizat
 ## 🎓 Certifications & Current Training
 
 ### Google Cybersecurity Professional Certificate — In Progress
-- ✅ **Foundations of Cybersecurity — Completed September 2026**
+- ✅ **Foundations of Cybersecurity — Completed September 2026 https://coursera.org/share/01526b620fb2438349585f9220bd603b**
   - Grade: **93.2%**
   - Covered: CIA triad, security frameworks and controls, CISSP security domains, threats, vulnerabilities, risk management, and security operations
 - 🔄 Continuing remaining Google Cybersecurity Professional Certificate courses
