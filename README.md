@@ -16,14 +16,20 @@ My goal is to apply my technical skills, strengths, and values to help organizat
 
 ---
 
-## 🎓 Current Training
+## 🎓 Certifications & Current Training
 
-- Google IT Support Professional Certificate
+### Google Cybersecurity Professional Certificate — In Progress
+- ✅ **Foundations of Cybersecurity — Completed September 2026**
+  - Grade: **93.2%**
+  - Covered: CIA triad, security frameworks and controls, CISSP security domains, threats, vulnerabilities, risk management, and security operations
+- 🔄 Continuing remaining Google Cybersecurity Professional Certificate courses
+
+### Additional IT Training
+- Google IT Support Professional Certificate — In Progress
 - Computer Hardware & Architecture
 - Operating Systems
 - Networking Fundamentals
 - Linux Fundamentals
-- Cybersecurity Fundamentals
 
 ### 📚 IT Support Coursework & Labs
 
